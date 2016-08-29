@@ -143,7 +143,7 @@ class I_Am_PoorUITests: XCTestCase {
     //            cityLabel.text = "Weather Unavailable"
     //        }
     //    }
-        print("KSF7FNEN2NFD0FNS")
+        print("J9DN3BBFKKS03SS4")
     }
     
     //    //MARK: - UI Updates
